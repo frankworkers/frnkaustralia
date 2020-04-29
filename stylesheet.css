@@ -69,6 +69,7 @@ background: linear-gradient(#c1e0ff,#56aaff);
 .contact-form {
   padding-top: 100px;
   margin: 50px;
+  font-size: 30px;
 }
 
 /* inputとtextareaのCSSを指定してください */
