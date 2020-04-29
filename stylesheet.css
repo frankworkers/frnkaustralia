@@ -51,9 +51,9 @@ background: linear-gradient(#c1e0ff,#56aaff);
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
-  font-size: 30px;
-  padding-top: 25px;
-  margin: 50px 0px;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin: 15px 0px;
   float: left;
 }
 
