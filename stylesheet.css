@@ -54,6 +54,7 @@ background: linear-gradient(#c1e0ff,#56aaff);
   font-size: 30px;
   padding: 15px;
   margin-bottom: 50px 30px;
+  float: left;
 }
 
 .contents-item {
