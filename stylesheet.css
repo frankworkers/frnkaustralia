@@ -26,7 +26,7 @@ li {
 .main {
   padding: 100px 80px;
 
-background: linear-gradient(＃c299ff,#5d99ff);
+background:radial-gradient(white, blue);
 
 
 
