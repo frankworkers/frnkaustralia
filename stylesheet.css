@@ -31,7 +31,9 @@
 　background:gradient( #FFFFFF, #5D99FF);
 }
 
-
+body {
+  background: linear-gradient(-135deg, #FFFFFF, #9941D8) fixed;
+}
 
 
 .copy-container h1 {
