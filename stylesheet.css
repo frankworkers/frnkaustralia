@@ -25,10 +25,11 @@ li {
 
 .main {
   padding: 100px 80px;
+  
+} 
 
-background:radial-gradient(white, blue);
-
-
+.body{
+  background:radial-gradient(white, blue);
 
 }
 
