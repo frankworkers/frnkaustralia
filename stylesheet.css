@@ -8,7 +8,7 @@
 }
 
 .header {
-  background-color: #bad3ff;
+  background-color: #4689ff;
   color: #fff;
   height: 100px;
 }
@@ -28,11 +28,11 @@
 
 .main {
   padding: 100px 80px;
-　background:gradient( #dcc2ff, #5D99FF);
+　
 }
 
 body {
-  background: linear-gradient(-135deg, #BAD3FF, #9941D8) fixed;
+  background: linear-gradient(-140deg, #BAD3FF, #4689ff) fixed;
 }
 
 
