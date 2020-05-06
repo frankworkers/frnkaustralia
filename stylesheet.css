@@ -89,10 +89,10 @@ input,textarea{
 
 }
 
-/* contact-submitのCSSを指定してください */
-.contact-submit{
-  background-color:#dee7ec;
-  color:#889eab;
+.wrapper{
+    min-height: 100vh;
+  position: relative;
+  box-sizing: border-box;
 }
 
 .footer {
