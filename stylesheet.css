@@ -47,6 +47,16 @@ body {
 }
 
 
+.profile p {
+  
+  color: #ffffff;
+  font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+  font-size: 18px;
+}
+  
+
+
+
 
 .copy-container h1 {
   font-size:100px;
