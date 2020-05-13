@@ -160,19 +160,12 @@ nav.btns{
 
 }
 
-footer{
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    font-family: sans-serif;
-    color: #ccc;
-    font-size: 12px;
-    line-height: 12px;
 
+   
     a {
         color: inherit;
     }
-}
+
 
 .loading-txt{
     text-align: center;
@@ -271,6 +264,16 @@ input,textarea{
   color: #fff;
   height: 120px;
   padding: 40px;
+  
+  
+   position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-family: sans-serif;
+    color: #ccc;
+    font-size: 12px;
+    line-height: 12px;
+
 }
 
 .footer-logo {
