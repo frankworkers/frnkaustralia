@@ -104,11 +104,15 @@ body {
 }
 
 
-.qanda-contents{
+.qanda-contents img{
   float: left;
   padding-left: 25px;
 }
 
+.qanda-contents2 img{
+  float: left;
+  margin-right40px;
+}
 
 
 
