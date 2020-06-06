@@ -102,6 +102,16 @@ body {
   font-size: 30px;
 }
 
+
+.qanda-contents{
+  float: left;
+  padding-left: 25px;
+}
+
+
+
+
+
 /* inputとtextareaのCSSを指定してください */
 input,textarea{
   width: 400px;
