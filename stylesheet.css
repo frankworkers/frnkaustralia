@@ -106,6 +106,34 @@ body {
 }
 
 
+
+
+.contact-form{
+  padding: 50px 30px;
+}
+
+
+.contact-form blink{
+  font-size: 20px;
+}
+
+
+
+
+.contact-title{
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+
+  
+  
+  
+  
+  
+
 .qanda-contents img{
   float: left;
   padding-left: 25px;
